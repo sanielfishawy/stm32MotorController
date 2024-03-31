@@ -1,0 +1,22 @@
+---
+:source:
+  :path: test
+  :file: test_phaseGen.c
+:successes:
+- :test: testPGSetPeriod
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+- :test: testPGHandlePwmTick
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 2
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.020270000211894512
